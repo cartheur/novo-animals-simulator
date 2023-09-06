@@ -1,12 +1,7 @@
 # novo animals simulator
 A simulator for the interaction of TTL chips as conjoined SVG images.
 
-This is a quick distraction I did while creating some SVG images for TTL chip diagrams. 
-Basically, its an SVG, why not make it interactive?
-
-The graphics source is a DXF made with librecad, the text height is 5.2mm (important detail for modifying it), converted and automated the diagram with inkscape. (javascript)
-
-There are some things that could be improved, for example, due to the layers used, the text ON the pins is not clickable, and will steal clicks on your pins to change the state.
+This is an interesting approach to solve design problems before wirewrapping pins together, creating SVG images for TTL chip diagrams. Basically, its an SVG, why not make it interactive? The graphics source is a DXF made with librecad, the text height is 5.2mm (important detail for modifying it), converted and automated the diagram with inkscape. (javascript) There are some things that could be improved, for example, due to the layers used, the text ON the pins is not clickable, and will steal clicks on your pins to change the state.
 
 ## How it works
 
