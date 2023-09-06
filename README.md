@@ -16,4 +16,4 @@ Under file, you can go to document properties and under that go to scripts, whic
 For a working demo (exact same file as here), you can use 
   http://ruemohr.org/~ircjunk/programming/74xx138-IA.svg
 
-  Please take and modify this into other chips.
+  Please apply the code and modify appropriately for other chips.
