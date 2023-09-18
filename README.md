@@ -17,3 +17,7 @@ For a working demo (exact same file as here), you can use
   http://ruemohr.org/~ircjunk/programming/74xx138-IA.svg
 
   Please apply the code and modify appropriately for other chips.
+
+  ## Literature survey
+
+  A 1979 book by Texas Instruments "The TTL Data Book for Design Engineers" is the place to organize the data.
